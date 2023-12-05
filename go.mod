@@ -1,4 +1,4 @@
-module github.com/Jimi-Public/ops-common
+module github.com/Abb1513/common
 
 go 1.18
 
